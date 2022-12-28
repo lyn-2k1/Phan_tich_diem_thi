@@ -1,1 +1,1 @@
-# Phan_tich_diem_thi
+Phân tích điểm thi để có cái nhìn khách quan
